@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "ceb04fb5475f1f87daea3e1819f6041d--clipart-blue-and.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
